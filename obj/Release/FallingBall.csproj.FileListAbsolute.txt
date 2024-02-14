@@ -1,0 +1,11 @@
+C:\Users\elev\Desktop\FallingBall\bin\Release\FallingBall.exe.config
+C:\Users\elev\Desktop\FallingBall\bin\Release\FallingBall.exe
+C:\Users\elev\Desktop\FallingBall\bin\Release\FallingBall.pdb
+C:\Users\elev\Desktop\FallingBall\obj\Release\FallingBall.csproj.AssemblyReference.cache
+C:\Users\elev\Desktop\FallingBall\obj\Release\FallingBall.csproj.SuggestedBindingRedirects.cache
+C:\Users\elev\Desktop\FallingBall\obj\Release\FallingBall.Form1.resources
+C:\Users\elev\Desktop\FallingBall\obj\Release\FallingBall.Properties.Resources.resources
+C:\Users\elev\Desktop\FallingBall\obj\Release\FallingBall.csproj.GenerateResource.cache
+C:\Users\elev\Desktop\FallingBall\obj\Release\FallingBall.csproj.CoreCompileInputs.cache
+C:\Users\elev\Desktop\FallingBall\obj\Release\FallingBall.exe
+C:\Users\elev\Desktop\FallingBall\obj\Release\FallingBall.pdb
